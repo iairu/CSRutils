@@ -1,4 +1,4 @@
-# CSR (SIP) Utilities for OpenCore configuration
+# CSR (SIP) Utilities for not only OpenCore configuration
 
 This is a set of utilities, so you don't have to leave your system exposed and misbehaving: Set the correct SIP for your use-case instead of completely disabling it.
 
